@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{AAFFAD63-4A5C-47CE-ADA9-CD9D0E8FEA47}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bookstore/Views/Account/Register.cshtml">
+    <Files>
+      <File FileName="Bookstore/Views/Shared/_Layout.cshtml" Line="61" Column="57" />
+      <File FileName="Bookstore/Models/DomainModels/User.cs" Line="17" Column="1" />
+      <File FileName="Bookstore/Models/DataLayer/BookstoreContext.cs" Line="56" Column="38" />
+      <File FileName="Bookstore/Controllers/AccountController.cs" Line="34" Column="47" />
+      <File FileName="Bookstore/Models/DataLayer/BookQueryOptions.cs" Line="1" Column="1" />
+      <File FileName="Bookstore/Program.cs" Line="22" Column="1" />
+      <File FileName="Bookstore/Startup.cs" Line="79" Column="1" />
+      <File FileName="Bookstore/Models/ViewModels/RegisterViewModel.cs" Line="21" Column="42" />
+      <File FileName="Bookstore/Views/Account/Register.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch16Ex1Bookstore" expanded="True">
+            <Node name="Bookstore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True">
+                  <Node name="Register.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
